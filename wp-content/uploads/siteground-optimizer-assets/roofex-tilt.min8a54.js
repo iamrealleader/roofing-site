@@ -1,0 +1,1 @@
+(function(a){"use strict";a(document).ready(function(){a('.img-hover-scale').each(function(){a(this).tilt()})})})(jQuery)
